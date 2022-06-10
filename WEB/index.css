@@ -1,0 +1,34 @@
+#paginHome {
+    background-color: white;
+    width: 1280px;
+    margin: auto;
+    
+}
+#paginHome extra {
+    background-color: #622708;
+    width: 1280px;
+    height: 200px;
+}
+#paginHome h4 {
+    color: gray;
+    font-size: 24px;
+}
+#paginHome h5 {
+    color: white;
+    font-size: 18px;
+}
+#paginHome h6 {
+    color: white;
+    font-size: 12px;
+}
+#paginHome h7 {
+    text-align: right;
+}
+#paginHome footer {
+    background-color: #622708;
+    height: 200px;
+    text-align: center;
+}
+#paginEstavel extra {
+
+}
